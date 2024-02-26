@@ -1,4 +1,4 @@
-export { };
+export {};
 
 const map1 = new Map([['country', 'Germany']]);
 const map2 = new Map([['salary', 100]]);
