@@ -1,13 +1,4 @@
 {
   "eslint.workingDirectories": ["src"],
-
-  "quokka.colors": {
-    "covered": "#62b455",
-    "errorPath": "#ffa0a0",
-    "errorSource": "#fe536a",
-    "notCovered": "#cccccc",
-    "partiallyCovered": "#d2a032"
-  },
-  "quokka.automaticRestart": true,
-  "editor.formatOnSave": false
+  "editor.formatOnSave": true
 }
